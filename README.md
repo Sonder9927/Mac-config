@@ -10,9 +10,9 @@ My config files in Mac Air
 ## tmux
 see
 
+
 [iterm2 上 tmux 和 oh_my_tmux 的使用]
 (https://www.liuvv.com/p/29f1e79c.html)
-
 and
 
 [tmux macOS 安装和简单配置使用]
