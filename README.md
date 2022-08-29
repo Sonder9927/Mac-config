@@ -17,6 +17,8 @@ see
 and
 
 [tmux macOS 安装和简单配置使用](https://blog.csdn.net/u010953692/article/details/90546271?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1.tagcolumn&spm=1001.2101.3001.4242.1)
+
+update my tmux.conf
 ## vim
 
 ## lunarvim
